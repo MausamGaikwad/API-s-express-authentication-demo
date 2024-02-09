@@ -1,4 +1,4 @@
-## Express Authentication Demo
+# Express Authentication Demo
 
 This repository contains a simple Express.js application demonstrating various authentication methods with external APIs.
 
