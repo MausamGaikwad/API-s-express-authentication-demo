@@ -3,10 +3,11 @@
 This repository contains a simple Express.js application demonstrating various authentication methods with external APIs.
 
 ## Authentication Methods
-No Authentication: Access an endpoint without any authentication.
-Basic Authentication: Authenticate using username and password.
-API Key Authentication: Authenticate using an API key.
-Bearer Token Authentication: Authenticate using a bearer token.
+* No Authentication: Access an endpoint without any authentication.
+* Basic Authentication: Authenticate using username and password.
+* API Key Authentication: Authenticate using an API key.
+* Bearer Token Authentication: Authenticate using a bearer token.
+
 ## Usage
 Clone the repository:
 bash
