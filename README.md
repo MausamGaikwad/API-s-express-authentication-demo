@@ -9,20 +9,20 @@ This repository contains a simple Express.js application demonstrating various a
 * Bearer Token Authentication: Authenticate using a bearer token.
 
 ## Usage
-Clone the repository:
+1. Clone the repository:
 bash
 Copy code
 git clone https://github.com/MausamGaikwad/API-s-express-authentication-demo.git
-Install dependencies:
+2. Install dependencies:
 bash
 Copy code
 npm install
-Replace placeholders in index.js with your authentication credentials.
-Start the server:
+3. Replace placeholders in index.js with your authentication credentials.
+4. Start the server:
 bash
 Copy code
 npm start
-Visit endpoints to test different authentication methods.
+5. Visit endpoints to test different authentication methods.
 ## Endpoints
 /noAuth: Access a public endpoint without authentication.
 /basicAuth: Authenticate using basic authentication.
