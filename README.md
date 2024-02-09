@@ -29,8 +29,8 @@ npm start
 * /apiKey: Authenticate using an API key.
 * /bearerToken: Authenticate using a bearer token.
 ## Requirements
-Node.js
-npm
+* Node.js
+* npm
 ## Contributing
 Feel free to contribute by opening issues or pull requests. Contributions are welcome!
 
