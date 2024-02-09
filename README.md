@@ -10,16 +10,13 @@ This repository contains a simple Express.js application demonstrating various a
 
 ## Usage
 1. Clone the repository:
-bash
 Copy code
 ```git clone https://github.com/MausamGaikwad/API-s-express-authentication-demo.git```
 2. Install dependencies:
-bash
 Copy code
 `npm install`
 3. Replace placeholders in `index.js` with your authentication credentials.
 4. Start the server:
-bash
 Copy code
 `npm start`
 5. Visit endpoints to test different authentication methods.
