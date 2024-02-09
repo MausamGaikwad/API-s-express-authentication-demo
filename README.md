@@ -24,10 +24,10 @@ Copy code
 npm start
 5. Visit endpoints to test different authentication methods.
 ## Endpoints
-/noAuth: Access a public endpoint without authentication.
-/basicAuth: Authenticate using basic authentication.
-/apiKey: Authenticate using an API key.
-/bearerToken: Authenticate using a bearer token.
+* /noAuth: Access a public endpoint without authentication.
+* /basicAuth: Authenticate using basic authentication.
+* /apiKey: Authenticate using an API key.
+* /bearerToken: Authenticate using a bearer token.
 ## Requirements
 Node.js
 npm
